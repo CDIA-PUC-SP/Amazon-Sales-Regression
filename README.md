@@ -15,6 +15,6 @@ Correlation Matrix: A correlation matrix is a statistical tool used to quantify 
 # Data Processing and Modeling:
 Data Processing and Modeling are integral parts of the data analysis workflow. This phase involves preparing and structuring data for analysis and applying various statistical and machine learning techniques to draw meaningful conclusions. It encompasses the following:
 
-# Data Processing: Data processing involves tasks such as cleaning, transforming, and aggregating data to ensure it is suitable for analysis. This step also includes handling missing values, outliers, and ensuring data consistency.
+Data Processing: Data processing involves tasks such as cleaning, transforming, and aggregating data to ensure it is suitable for analysis. This step also includes handling missing values, outliers, and ensuring data consistency.
 
-# Data Modeling: Data modeling refers to the application of statistical or machine learning models to the processed data. This allows analysts to make predictions, classifications, or clustering based on the available data. Common techniques include linear regression, decision trees, and neural networks.
+Data Modeling: Data modeling refers to the application of statistical or machine learning models to the processed data. This allows analysts to make predictions, classifications, or clustering based on the available data. Common techniques include linear regression, decision trees, and neural networks.
